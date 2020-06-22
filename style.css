@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header nav h1 {
+    float: left;
+    margin: 35px 80px auto 120px;
+    font-size: 24px;
+    font-family: 'Candal', sans-serif;
+}
+
+header nav ul {
+    position: absolute;
+    margin: 42px 80px auto 728px;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+header nav ul li a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    color: rgb(87, 84, 84);
+}
+
+#heroImg {
+    min-height: 570px;
+    background-image: url(../img/hero.jpg);
+}
+
+#hero1 {
+    position: absolute;
+    width: 450px;
+    margin: 130px auto auto 215px;
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+}
+
+#hero2 {
+    position: absolute;
+    font-weight: 300;
+    font-size: 44px;
+}
+
+#hero2 strong {
+    font-family: 'Candal', sans-serif;
+    font-weight: 900;
+}
+
+#formDiv {
+    position: absolute;
+    width: 918px;
+    height: 135px;
+    background-color: white;
+    margin: 305px auto auto 215px;
+    padding-left: 100px;
+}
+
+#form1 {
+    /* position: absolute;
+    width: 918px;
+    height: 135px;
+    background-color: white;
+    margin: 305px auto auto 215px;
+    padding-left: 100px; */
+}
+
+
+/* #cars {
+    margin: 50px;
+} */
